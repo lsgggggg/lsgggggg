@@ -1,87 +1,65 @@
-<h1 align="center">你好，我是李时光 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Li+Shiguang+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <em>北京工商大学 · 经济统计学 · 量化研究 · 机器学习 · 开源开发者</em>
+  <em>Statistics Undergrad &middot; Quantitative Researcher &middot; Deep Learning Enthusiast</em>
 </p>
 
 <p align="center">
-  <a href="mailto:lishiguang8073@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lishiguang8073-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/lsgggggg">
-    <img src="https://img.shields.io/badge/GitHub-lsgggggg-181717?style=flat-square&logo=github" />
-  </a>
   <a href="https://lsgggggg.github.io">
-    <img src="https://img.shields.io/badge/个人主页-lsgggggg.github.io-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Homepage-lsgggggg.github.io-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:lishiguang8073@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 关于我
+### About Me
 
-- 🎓 **北京工商大学** 经济统计学本科（2027 届，GPA 4.01/5.00）
-- 📝 以第一作者（通讯）向 **KDD 2026** Research Track 投稿论文（*Orion: Spatiotemporal Neural Networks with Self-Validating Directed Graphs*，审稿中）
-- 🏅 **WorldQuant 量化投资大赛金牌** — 全球排名前 5%，开发 10+ 高质量 Alpha 因子（Sharpe ≥ 1.25）
-- 🏆 全国大学生统计建模大赛 **北京市一等奖**
-- 💼 前实习生 @ **德勤**（税务与商务咨询部）、**交通银行**（对公业务部）
+I'm an Economics & Statistics major at Beijing Technology and Business University (GPA 4.01/5.00, Class of 2027) with a strong foundation in mathematics and statistics. I submitted a first-author paper on spatiotemporal neural networks to **KDD 2026** Research Track (*Orion*), and earned a **Gold Medal** in the WorldQuant Quantitative Investment Competition (global top 5%), which reflects my end-to-end quantitative research capability — from deep learning modeling to Alpha factor mining.
+
+Through internships at **Deloitte**, **Bank of Communications**, and **Sinopec Engineering**, I've gained hands-on experience in data processing, financial modeling, and risk analytics in real business settings. I also develop open-source Python tools that solve practical data workflow problems.
+
+I'm proficient in **Python, R, SQL, and C**, and capable of building complete ML pipelines from data cleaning and feature engineering to model tuning. I'm also an active practitioner of AI-assisted development with tools like **Claude Code**, and have experience in **Prompt Engineering**, **AI Agent workflows**, and **Vibe Coding** — turning ideas into working prototypes fast.
+
+I'm driven by curiosity and a constant desire to push my boundaries. I enjoy diving into unfamiliar domains, learning higher-level methodologies, and continuously leveling up.
 
 ---
 
-### 🛠️ 技术栈
-
-**编程语言**
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**机器学习 / 深度学习**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**数据与工具**
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📌 开源项目
+### Featured Projects
 
-| 项目 | 简介 |
-|------|------|
-| [**ExcelTranslator-Pro**](https://github.com/lsgggggg/ExcelTranslator-Pro) | 智能 Excel 多语言翻译工具，5 大翻译引擎，一键翻译，完美保留格式 |
-| [**NameLink**](https://github.com/lsgggggg/NameLink) | 公司名称智能匹配系统，三重相似度算法，繁简体自动统一 |
-| [**Excel-Standardizer**](https://github.com/lsgggggg/Excel-Standardizer) | Excel 数据标准化清洗工具，100+ 智能规则，两阶段安全处理 |
-
----
-
-### 📊 研究方向
-
-- **时空预测** — 基于图神经网络的交通与流行病预测
-- **量化金融** — Alpha 因子挖掘、多因子模型、集成学习
-- **多模态学习** — 融合 NLP（BERT）与时序数据的股价预测
-- **金融 NLP** — 基于 FinBERT 的情感分析、新闻驱动建模
+| Project | Description |
+|---------|-------------|
+| [**Orion**](https://github.com/lsgggggg/Orion) | Spatiotemporal neural network for traffic & epidemic forecasting (KDD 2026 submission) |
+| [**ExcelTranslator-Pro**](https://github.com/lsgggggg/ExcelTranslator-Pro) | Multi-language Excel translator with 5 translation engines, preserving formatting |
+| [**NameLink**](https://github.com/lsgggggg/NameLink) | Intelligent company name matching system with triple similarity algorithms |
+| [**Excel-Standardizer**](https://github.com/lsgggggg/Excel-Standardizer) | Excel data cleaning tool with 100+ smart rules and two-stage safe processing |
 
 ---
 
-### 📈 GitHub 统计
+### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lsgggggg&show_icons=true&theme=default&hide_border=true&count_private=true&locale=cn" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsgggggg&layout=compact&theme=default&hide_border=true&locale=cn" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lsgggggg&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsgggggg&layout=compact&theme=default&hide_border=true" />
 </p>
 
----
-
-<p align="center">
-  <em>"用数据驱动决策，用模型理解世界。"</em>
-</p>
