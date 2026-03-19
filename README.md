@@ -53,3 +53,9 @@
 | 🌐 [**ExcelTranslator-Pro**](https://github.com/lsgggggg/ExcelTranslator-Pro) | Multi-language Excel translator with 5 translation engines, preserving formatting |
 | 🔗 [**NameLink**](https://github.com/lsgggggg/NameLink) | Intelligent company name matching system with triple similarity algorithms |
 | 🧹 [**Excel-Standardizer**](https://github.com/lsgggggg/Excel-Standardizer) | Excel data cleaning tool with 100+ smart rules and two-stage safe processing |
+
+---
+
+<p align="center">
+  For more about my research and projects, visit my homepage: <a href="https://lsgggggg.github.io"><strong>lsgggggg.github.io</strong></a>
+</p>
