@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 About Me
 
-🎓 I'm an Economics & Statistics major at Beijing Technology and Business University (GPA 4.01/5.00, Class of 2027) with a strong foundation in mathematics and statistics. I submitted a first-author paper on spatiotemporal neural networks to **KDD 2026** Research Track (*Orion*), and earned a 🏅 **Gold Medal** in the WorldQuant Quantitative Investment Competition (global top 5%), which reflects my end-to-end quantitative research capability — from deep learning modeling to Alpha factor mining.
+🎓 I'm an Economics & Statistics major at Beijing Technology and Business University (GPA 4.01/5.00, Class of 2027) with a strong foundation in mathematics and statistics. I submitted a first-author paper on spatiotemporal neural networks to **KDD 2026** Research Track (*Orion*), and earned a 🏅 **Gold Medal** in the WorldQuant Quantitative Investment Competition (global top 5%).
 
 💼 Through internships at **Deloitte**, **Bank of Communications**, and **Sinopec Engineering**, I've gained hands-on experience in data processing, financial modeling, and risk analytics in real business settings. I also develop open-source Python tools that solve practical data workflow problems.
 
