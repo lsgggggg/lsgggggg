@@ -52,7 +52,6 @@
 | Project | Description |
 |---------|-------------|
 | 🧠 [**Orion**](https://github.com/lsgggggg/Orion) | Spatiotemporal neural network for traffic & epidemic forecasting (KDD 2026 submission) |
-| ✍️ **IELTS AI Agent Review System** | AI Agent Pipeline for IELTS writing review with personalized learning library ([Task 2](https://lsgggggg.github.io/IELTS-Task2-Writing-Archive/) · [Task 1](https://lsgggggg.github.io/IELTS-Task1-Writing-Archive/)) |
 | 🌐 [**ExcelTranslator-Pro**](https://github.com/lsgggggg/ExcelTranslator-Pro) | Multi-language Excel translator with 5 translation engines, preserving formatting |
 | 🔗 [**NameLink**](https://github.com/lsgggggg/NameLink) | Intelligent company name matching system with triple similarity algorithms |
 | 🧹 [**Excel-Standardizer**](https://github.com/lsgggggg/Excel-Standardizer) | Excel data cleaning tool with 100+ smart rules and two-stage safe processing |
