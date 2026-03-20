@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Statistics Undergrad · Quantitative Researcher · Deep Learning Enthusiast</em>
+  <em>Statistics Undergrad · Deep Learning Enthusiast · Quantitative Researcher</em>
 </p>
 
 <p align="center">
