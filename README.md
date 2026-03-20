@@ -23,7 +23,7 @@
 
 💼 Through internships at **Deloitte**, **Bank of Communications**, and **Sinopec Engineering**, I've gained hands-on experience in data processing, financial modeling, and risk analytics in real business settings. I also develop open-source Python tools that solve practical data workflow problems.
 
-⚡ I'm proficient in **Python, R, SQL, and C**, and capable of building complete ML pipelines from data cleaning and feature engineering to model tuning. I'm also an active practitioner of AI-assisted development with tools like **Claude Code**, and have experience in **Prompt Engineering**, **AI Agent workflows**, and **Vibe Coding** — turning ideas into working prototypes fast.
+⚡ I'm proficient in **Python, R, SQL, and C**, and capable of building complete ML pipelines from data cleaning and feature engineering to model tuning. I'm skilled in leveraging **Claude Code** or locally deployed **OpenClaw** and other AI Agents to boost coding efficiency and build automated workflows, with practical experience in **Prompt Engineering**, **AI Agent workflows**, and **Vibe Coding** — turning ideas into working prototypes fast. For example, I independently built a full **AI Agent Pipeline** for an IELTS Writing Review System on Claude Code, enabling end-to-end delivery from essay submission to learning webpage output with a single command.
 
 🔥 I'm driven by curiosity and a constant desire to push my boundaries. I enjoy diving into unfamiliar domains, learning higher-level methodologies, and continuously leveling up.
 
