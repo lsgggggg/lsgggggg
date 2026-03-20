@@ -27,6 +27,8 @@
 
 🔥 I'm driven by curiosity and a constant desire to push my boundaries. I enjoy diving into unfamiliar domains, learning higher-level methodologies, and continuously leveling up.
 
+🔗 Personal Website: https://lsgggggg.github.io
+
 ---
 
 ### 🛠️ Tech Stack
