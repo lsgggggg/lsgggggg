@@ -17,7 +17,7 @@ I am a statistics-trained data and AI practitioner who enjoys turning ambiguous 
 
 - **Education:** B.Sc. candidate in Economics & Statistics, BTBU, Class of 2027 — GPA 4.01/5.00 (90.6/100)
 - **Research:** First author of *Orion*, currently in the **ICLR 2027 submission process**; Undergraduate Research Assistant on an NSFC-funded energy forecasting project
-- **Languages:** IELTS 7.0 overall (6.5 in Listening, Reading, Writing, and Speaking); CET-6 513
+- **Languages:** IELTS 7.0 (6.5); CET-6 513
 - **Working style:** I focus on end-to-end system design at the intersection of statistical and machine-learning methods, data-product architecture, and industry decision-making
 
 ## Experience
