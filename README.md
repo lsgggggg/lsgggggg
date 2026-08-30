@@ -1,61 +1,45 @@
-<h1 align="center">Li Shiguang</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D2691E&center=true&vCenter=true&random=false&width=550&lines=Hi+there!+I'm+Li+Shiguang+%F0%9F%91%8B;Welcome+to+my+GitHub!+%E2%9C%A8;Data+%2B+AI+%2B+Quant+%F0%9F%93%8A" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <strong>Statistics · Data Science · AI Systems Design</strong><br>
-  Economics & Statistics undergraduate at Beijing Technology and Business University
+  <em>Statistics Undergrad · Deep Learning Enthusiast · Quantitative Researcher</em>
 </p>
 
 <p align="center">
-  <a href="https://lsgggggg.github.io"><img src="https://img.shields.io/badge/Personal_Homepage-c96442?style=flat-square&logo=googlechrome&logoColor=white" alt="Personal Homepage"></a>
-  <a href="mailto:lishiguang8073@gmail.com"><img src="https://img.shields.io/badge/Email-30302e?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/lsgggggg"><img src="https://img.shields.io/badge/GitHub-lsgggggg-141413?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"></a>
+  <a href="https://lsgggggg.github.io">
+    <img src="https://img.shields.io/badge/Homepage-lsgggggg.github.io-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:lishiguang8073@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-## Profile
+---
 
-I am a statistics-trained data and AI practitioner who enjoys turning ambiguous business or research problems into clear data definitions, model architectures, executable pipelines, and testable product specifications. My work spans spatiotemporal neural networks, financial and operational risk analytics, semantic data governance, natural-language dashboard generation, and multi-agent workflows.
+### 🧑‍💻 About Me
 
-- **Education:** B.Sc. candidate in Economics & Statistics, BTBU, Class of 2027 — GPA 4.01/5.00 (90.6/100)
-- **Research:** First author of *Orion*, currently in the **ICLR 2027 submission process**; Undergraduate Research Assistant on an NSFC-funded energy forecasting project
-- **Languages:** IELTS 7.0 (6.5); CET-6 513
-- **Working style:** I focus on end-to-end system design at the intersection of statistical and machine-learning methods, data-product architecture, and industry decision-making
+🎓 I'm an Economics & Statistics major at Beijing Technology and Business University (GPA 4.01/5.00, 90.6/100; IELTS 7.0 (6.5); Class of 2027), with rigorous training in mathematical statistics, econometrics, regression, multivariate analysis, time-series analysis, non-parametric statistics, data science, and database systems. I am the first author of **Orion**, a spatiotemporal neural-network paper currently under submission to **ICLR 2027**, and an Undergraduate Research Assistant in Prof. Heng Jiani's group, contributing to an NSFC-funded energy-forecasting project. My distinctions include First Prize in the Beijing Division of the National Undergraduate Statistical Modeling Contest, a 🏅 **Gold Medal** in the WorldQuant Quantitative Investment Competition (global top 5%), and an Honorable Mention in 2026 MCM/ICM Problem B as team leader.
 
-## Experience
+💼 My experience spans four internships across enterprise software, consulting, banking, and energy. At **Pansoft**, I worked as a **Data & AI Solutions Development Intern | Digital Transformation Group, Digital Transformation Consulting Division**, contributing to the PipeChina financial data-governance program and leading work on NL2Dashboard, shared-service document-backlog analytics, and a multi-agent proposal-generation PoC and product PRD. At **Deloitte**, I worked as a **Data Development Intern, Digital Transformation Group, Tax & Business Consulting Department**, supporting OECD Pillar Two data workflows and developing reusable Python tools for entity-name matching and Excel standardization. At **Bank of Communications**, I served as a **Credit Data Modeling Intern, Corporate Banking Department**, working on corporate credit analysis, financial due diligence, and credit scoring. At **Sinopec Engineering**, I was an **Operational Data Risk Modeling Intern, Finance Department**, supporting gross-margin benchmarking, contract-asset quality scoring, and operational risk analytics across large project portfolios.
 
-| Organization | Role | Focus |
-|---|---|---|
-| **Pansoft** | **Data & AI Solutions Development Intern**, Digital Transformation Group, Digital Transformation Consulting Division | Financial data governance for the PipeChina program; NL2Dashboard research and delivery; shared-service backlog analytics; multi-agent proposal-generation PoC and product PRD |
-| **Deloitte** | **Data Development Intern, Digital Transformation Group, Tax & Business Consulting Department** | OECD Pillar Two data workflows, entity and ownership-structure analysis, Python fuzzy matching, and reusable Excel data-standardization tools |
-| **Bank of Communications** | **Credit Data Modeling Intern, Corporate Banking Department** | Corporate credit analysis, financial due diligence, Excel-based credit scoring, and standardized corporate-banking knowledge workflows |
-| **Sinopec Engineering** | **Operational Data Risk Modeling Intern, Finance Department** | Gross-margin benchmarking, contract-asset quality scoring, market-risk analysis, and management visualization across 4,000+ project records |
+⚡ I'm proficient in **Python, R, SQL, C, PyTorch, Scikit-learn, Transformers, Pandas, NumPy, MySQL, DuckDB, React/ECharts, Docker, and LaTeX**. I build end-to-end data and AI pipelines spanning data cleaning, feature engineering, model development, governed semantic layers, permission-aware deterministic querying, structured LLM outputs, automated evaluation, and visual delivery. My recent systems work includes a governed natural-language-to-dashboard pipeline covering five business domains and six fact models, an eight-stage multi-agent proposal-generation workflow with auditable quality gates, and open-source Python/Flask tools such as **NameLink**, **Excel-Standardizer**, and **ExcelTranslator-Pro**. I also designed an AI-agent pipeline for IELTS writing review, progressive revision, learning-page generation, and GitHub Pages deployment.
 
-## Research and Selected Systems
+🔥 I'm driven by curiosity and by the challenge of turning complex, ambiguous problems into clear data definitions, model architectures, executable pipelines, product specifications, and testable deliverables. My interests lie at the intersection of statistical modeling, AI-system design, data-product architecture, quantitative research, and industry decision-making, with an emphasis on combining technical depth with measurable real-world value.
 
-| Work | What I designed or delivered |
-|---|---|
-| [**Orion**](https://github.com/lsgggggg/Orion) | First-author spatiotemporal neural-network research for traffic and epidemic forecasting; the current work is in the ICLR 2027 submission process |
-| **NL2Dashboard** | A governed natural-language-to-dashboard pipeline spanning semantic catalogs, structured requirements, independent model review, deterministic query planning, permission injection, parameterized SQL, chart rules, and React/ECharts rendering; final acceptance used 50 held-out questions and 108 live model calls |
-| **PipeChina Financial Data Governance** | Ontology-oriented business objects, relationships, metrics, rules, master-data identifiers, and business-activity taxonomies connecting finance, operations, logistics, and analytics; feasibility validated with synthetic data rather than represented as a production deployment |
-| **Multi-Agent Proposal Generation** | An eight-stage PoC with 29 auditable content units, deterministic red-line checks, diagram QA, and human gates; later productized into a PRD with five architectural layers, six agent types, and measurable quality gates |
-| [**NameLink**](https://github.com/lsgggggg/NameLink) · [**Excel-Standardizer**](https://github.com/lsgggggg/Excel-Standardizer) | Open-source Python/Flask tools for entity-name matching and controlled Excel data standardization, derived from recurring enterprise data-quality problems |
-| [**ExcelTranslator-Pro**](https://github.com/lsgggggg/ExcelTranslator-Pro) | Multi-engine Excel translation with formatting preservation, bilingual output, review controls, and change tracking |
-| [**IELTS Task 2 Archive**](https://lsgggggg.github.io/IELTS-Task2-Writing-Archive/) · [**Task 1 Archive**](https://lsgggggg.github.io/IELTS-Task1-Writing-Archive/) | Modular AI-agent workflow from rubric-grounded review and progressive revision to structured learning pages and GitHub Pages deployment |
+🔗 Personal Website: https://lsgggggg.github.io
 
-## Recognition
+---
 
-- Gold Medal, WorldQuant Quantitative Investment Competition — global top 5%
-- Honorable Mention, 2026 MCM/ICM Problem B — Team Leader
-- Beijing First Prize, National College Student Statistical Modeling Competition
-- Team Leader, 2025 China Undergraduate Mathematical Contest in Modeling and Kaggle Hull Tactical S&P 500 Return Forecasting
-
-## Technical Toolkit
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -65,8 +49,16 @@ I am a statistics-trained data and AI practitioner who enjoys turning ambiguous 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-I also work extensively with **Prompt Engineering, AI-agent orchestration, structured outputs, deterministic validation, evaluation design, and permission-aware data systems**.
-
 ---
 
-For the bilingual resume, detailed project evidence, and publications, visit **[lsgggggg.github.io](https://lsgggggg.github.io)**.
+### 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧠 [**Orion**](https://github.com/lsgggggg/Orion) | First-author spatiotemporal neural-network research for traffic and epidemic forecasting, currently under submission to ICLR 2027 |
+| 📊 [**NL2Dashboard**](https://lsgggggg.github.io/#internship) | Governed natural-language-to-dashboard pipeline with semantic catalogs, permission-aware deterministic querying, structured LLM review, and React/ECharts delivery |
+| 🤖 [**Multi-Agent Proposal Generation**](https://lsgggggg.github.io/#internship) | Eight-stage auditable workflow with factual constraints, red-line checks, diagram QA, human gates, and a productization PRD |
+| 🌐 [**ExcelTranslator-Pro**](https://github.com/lsgggggg/ExcelTranslator-Pro) | Multi-language Excel translator with five translation engines and formatting preservation |
+| 🔗 [**NameLink**](https://github.com/lsgggggg/NameLink) | Intelligent company-name matching system developed from enterprise entity-resolution needs |
+| 🧹 [**Excel-Standardizer**](https://github.com/lsgggggg/Excel-Standardizer) | Controlled Excel data-cleaning tool with safe, reusable standardization workflows |
+| ✍️ [**IELTS Task 2 Archive**](https://lsgggggg.github.io/IELTS-Task2-Writing-Archive/) · [**Task 1 Archive**](https://lsgggggg.github.io/IELTS-Task1-Writing-Archive/) | AI-agent workflow for rubric-grounded review, progressive revision, structured learning pages, and GitHub Pages deployment |
